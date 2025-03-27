@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">project001</string>
+    <string name="str">welcome</string>
+    <string name="title">welcome</string>
+    <string name="yourpassword">password</string>
+    <string name="ok">button</string>
+</resources>
